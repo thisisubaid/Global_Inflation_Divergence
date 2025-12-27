@@ -10,7 +10,7 @@ This project analyzes the **uneven inflation recovery** across major economies a
 - **Inflation shocks were 3-5x larger in emerging markets**
 
 ## 📈 Dashboard
-**[View Interactive Dashboard on Tableau Public]([your-tableau-link-here](https://public.tableau.com/app/profile/mohammad.ubaidullah/viz/GlobalInflationDivergenceApostCOVIDAnalysis/Dashboard1))**
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/mohammad.ubaidullah/viz/GlobalInflationDivergenceApostCOVIDAnalysis/Dashboard1)**
 
 ## 🛠️ Tools & Technologies
 - **Data Processing:** Python (pandas), SQL
