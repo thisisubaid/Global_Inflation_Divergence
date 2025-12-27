@@ -13,9 +13,9 @@ This project analyzes the **uneven inflation recovery** across major economies a
 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/mohammad.ubaidullah/viz/GlobalInflationDivergenceApostCOVIDAnalysis/Dashboard1)**
 
 ## 🛠️ Tools & Technologies
-- **Data Processing:** Python (pandas), SQL
+- **Data Processing:** Python (pandas)
 - **Visualization:** Tableau
-- **Data Sources:** World Bank (2015-2023), IMF
+- **Data Sources:** World Bank (2005-2023), IMF
 
 ## 📁 Files Included
 - `inflation.ipynb` - Complete Python analysis (data cleaning to visualization)
