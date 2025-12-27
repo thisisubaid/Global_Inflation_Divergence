@@ -17,5 +17,7 @@ This project analyzes the **uneven inflation recovery** across major economies a
 - **Visualization:** Tableau
 - **Data Sources:** World Bank (2015-2023), IMF
 
-## 📁 Project Structure
-
+## 📁 Files Included
+- `inflation.ipynb` - Complete Python analysis (data cleaning to visualization)
+- `finall_countries_complete.csv` - Processed dataset ready for Tableau
+- `gdp_per_capita.csv`, `inflaion_annual.csv`, `official_exchange.csv` - Raw data from World Bank
